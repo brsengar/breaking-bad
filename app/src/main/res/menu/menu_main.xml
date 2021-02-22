@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gtsl.breakingbad.com.gtsl.presentation.MainActivity">
+
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/search_character"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+    <item
+        android:id="@+id/action_filter"
+        android:title="@string/filter"
+        app:showAsAction="ifRoom" />
+
+</menu>

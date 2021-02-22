@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mtramin:rxfingerprint:2.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/872ba3d31b1df0ed40263bf9316f74c8/jetified-rxfingerprint-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/872ba3d31b1df0ed40263bf9316f74c8/jetified-rxfingerprint-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/872ba3d31b1df0ed40263bf9316f74c8/jetified-rxfingerprint-2.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca6ed9d37b77a08e8f6d5632bdda7233/jetified-rxfingerprint-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca6ed9d37b77a08e8f6d5632bdda7233/jetified-rxfingerprint-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca6ed9d37b77a08e8f6d5632bdda7233/jetified-rxfingerprint-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1962f4b786bd2e906b74c21da5547635/jetified-rxfingerprint-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b1d2d9f62eb3bc310b61ab90f95efcc/jetified-rxfingerprint-2.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b1d2d9f62eb3bc310b61ab90f95efcc/jetified-rxfingerprint-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b1d2d9f62eb3bc310b61ab90f95efcc/jetified-rxfingerprint-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mtramin/rxfingerprint/2.1.0/b9941dd4321da51cb3f2024c8bfa46562922b44e/rxfingerprint-2.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mtramin/rxfingerprint/2.1.0/b1e4aefd85dd813d524d1d9286464598959dd050/rxfingerprint-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+        <variable
+            name="appearanceInfo"
+            type="com.gtsl.breakingbad.presentation.apperance.AppearanceInfo" />
+    </data>
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip_appearance_season"
+        style="@style/Widget.MaterialComponents.Chip.Filter"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:checked="@{appearanceInfo.checked}"
+        android:text="@{appearanceInfo.seasonText}" />
+</layout>

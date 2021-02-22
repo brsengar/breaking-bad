@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BreakingBad</string>
+    <string name="appearances">Appearances</string>
+    <string name="character_list">Characters List</string>
+    <string name="character_details">Character Details</string>
+    <string name="search_character">Search Character</string>
+    <string name="filter">Filter</string>
+    <string name="select_seasons">Select Seasons</string>
+    <string name="apply">Apply</string>
+    <string name="error_message">Error retrieving characters information</string>
+    <string name="nickname">Nickname</string>
+    <string name="occupation">Occupation</string>
+    <string name="status">Status</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="portrayed">Portrayed</string>
+    <string name="category">Category</string>
+</resources>
