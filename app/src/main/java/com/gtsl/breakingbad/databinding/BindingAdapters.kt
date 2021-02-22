@@ -36,7 +36,7 @@ object BindingAdapters {
         url?.let {
             Glide.with(view.context)
                 .load(it)
-                .apply(RequestOptions.bitmapTransform(BlurTransformation()))
+                .apply(RequestOptions.bitmapTransform(BlurTransformation(70,3)))
                 .into(view)
         }
     }
